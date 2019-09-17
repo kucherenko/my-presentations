@@ -64,4 +64,17 @@ Open sourse projects:
 | Date        | Type     | Title        |   Location    |  Slides  |
 | ----------- | -------- | ------------ | ------------- | ------ |
 | 2015 | Presentation | Modern app workflow | [TechTalks](https://techtalks.bg/) Sofia, Bulgaria| [slides](https://slides.com/andreykucherenko/modern-application-flow#/) | 
+| 2015 | Training | Test Driven Development | [SmartMe University](http://smartme.university/workshop/tdd-in-javascript/) Kiev, Ukraine | [slides](https://slides.com/andreykucherenko/deck-9-17) |
+| 2015 | Presentation | How to Use Agile Practices in a Proper Way | Kiev, Ukraine (EPAM) | [slides](https://slides.com/andreykucherenko/how-to-use-agile-practices-in-a-proper-way#/3) |
+| 2015 | Presentation | Connect physical world to the Internet with JavaScript | [OdessaJS](http://odessajs.org/) Odessa, Ukraine | [slides](https://slides.com/andreykucherenko/deck-11) |
+| 2015 | Presentation | Test Driven Development for Javascript | [OdessaJS](http://odessajs.org/) Odessa, Ukraine | [slides](https://slides.com/andreykucherenko/deck-9-10) |
+| 2015 | Presentation | Internet of Things for Web Developers | [SEC](https://sec.epam.com/) Kiev, Ukraine | [slides](https://slides.com/andreykucherenko/deck-7#/) |
+| 2015 | Presentation | Hardware programming with JavaScript | Kiev, Ukraine (EPAM) | [slides](https://slides.com/andreykucherenko/hardware-programming-with-javascript#/) |
+| 2015 | Presentation | Native development with JavaScript | Kiev, Ukraine (EPAM) | [slides](https://slides.com/andreykucherenko/deck-13#/) |
+| 2015 | Presentation | Mobile Development with JavaScript | Kiev, Ukraine (EPAM) | [slides](https://slides.com/andreykucherenko/mobile-development-with-javascript#/) |
+
+
+
+
+
 
