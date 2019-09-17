@@ -29,7 +29,9 @@ Open sourse projects:
 | 25.07.2019  | Meetup | Разработка фронтенда по TDD| [Smart Club](https://www.facebook.com/photo.php?fbid=2117273905230498&set=gm.2122439881217232&type=3&theater&ifg=1), Kharkov, Ukraine | [slides](https://slides.com/andreykucherenko/test-driven-development-72)|
 | 19-20.07.2019 | Workshop | NestJS web framework | [OdessaJS](http://odessajs.org/) Odessa, Urkaine | [slides](https://slides.com/andreykucherenko/nestjs-71#/) |
 | 02.06.2019 | Presentation | jscpd - copy/paste detector | [IT Weekend](https://itweekend.events/event/it-weekend-dnipro-2019/) Dnepr, Ukraine| [slides](https://slides.com/andreykucherenko/jscpd-copy-paste-detector#/) |  
-| 25.04.2019 | Workshop | Coding-Dojo | [Math.random()](http://mathrandom.com/coding-dojo) Kiev, Ukraine | [slides](https://slides.com/andreykucherenko/coding-dojo#/6) |
+| 25.05.2019 | Presentation | The architecture of Front-End applications | [iForum](https://2019.iforum.ua/speakers/kucherenko/#speech_1847) Kiev, Ukraine | [slides](https://slides.com/andreykucherenko/front-end-architecture-66#/) |
+| 25.04.2019 | Workshop | Coding-Dojo | [Math.random()](http://mathrandom.com/coding-dojo) Kiev, Ukraine | [slides](https://slides.com/andreykucherenko/coding-dojo) |
+| 05.04.2019 | Presentation | The architecture of Front-End applications | [JSFest](https://jsfest.com.ua/jsfest2019spring/) Kiev, Ukraine | [slides](https://slides.com/andreykucherenko/front-end-architecture#/) |
 
 
 
