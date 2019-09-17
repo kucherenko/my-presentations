@@ -2,6 +2,7 @@
 The list of public speaking, trainings, presentations conducted by me.
 
 Slides: [andreykucherenko](https://slides.com/andreykucherenko)
+
 Twitter: [a_kucherenko](https://twitter.com/a_kucherenko)
 
 Open sourse projects:
