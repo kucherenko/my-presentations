@@ -10,9 +10,9 @@ Open sourse projects:
  - [awesome-project-questions](https://github.com/kucherenko/awesome-project-questions) - list of questions, what need to ask before start work on project
  - [coverage-blamer](https://github.com/kucherenko/coverage-blamer) - show author of uncovered code
 
-## Upcomming
-
 -----------
+
+## Upcomming
 
 | Date        | Type     | Title        |   Location    |
 | ----------- | -------- | ------------ | ------------- |
@@ -22,9 +22,7 @@ Open sourse projects:
 
 ## 2019
 
------------
-
-| Date        | Type     | Title        |   Location    |    |
+| Date        | Type     | Title        |   Location    |  Slides  |
 | ----------- | -------- | ------------ | ------------- | ------ |
 | 25.07.2019  | Meetup | Разработка фронтенда по TDD| [Smart Club](https://www.facebook.com/photo.php?fbid=2117273905230498&set=gm.2122439881217232&type=3&theater&ifg=1), Kharkov, Ukraine | [slides](https://slides.com/andreykucherenko/test-driven-development-72)|
 | 19-20.07.2019 | Workshop | NestJS web framework | [OdessaJS](http://odessajs.org/) Odessa, Urkaine | [slides](https://slides.com/andreykucherenko/nestjs-71#/) |
@@ -33,5 +31,9 @@ Open sourse projects:
 | 25.04.2019 | Workshop | Coding-Dojo | [Math.random()](http://mathrandom.com/coding-dojo) Kiev, Ukraine | [slides](https://slides.com/andreykucherenko/coding-dojo) |
 | 05.04.2019 | Presentation | The architecture of Front-End applications | [JSFest](https://jsfest.com.ua/jsfest2019spring/) Kiev, Ukraine | [slides](https://slides.com/andreykucherenko/front-end-architecture#/) |
 
+## 2018
 
+| Date        | Type     | Title        |   Location    |  Slides  |
+| ----------- | -------- | ------------ | ------------- | ------ |
+| 30.03.2018  | Presentation | Mutation Testing in JavaScript| [JSFest](https://jsfest.com.ua/jsfest2018/indexe.html), Kiev, Ukraine | [slides](https://slides.com/andreykucherenko/mutation-testing-in-javascript#/)|
 
