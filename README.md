@@ -49,7 +49,6 @@ Open sourse projects:
 | 08.2017 | Presentation | Multi Packages Applications: What? Why? How? | [VinnytsiaJS](http://vinnytsiajs.org/) Vinnytsia, Ukraine| [slides](https://slides.com/andreykucherenko/multi-packages-appications#/) |  
 | 08.2017 | Presentation | Development for large-scale & scalable front-end applications. | SBTech Talks, Sofia, Bulgaria| [slides](https://slides.com/andreykucherenko/deck-48#/)|
 | 2017 | Training | Introducion to GIT | Kiev, Ukraine (EPAM) | [slides](https://slides.com/andreykucherenko/advanced-git-47#/)|
-| 2017 |
 
 
 ## 2016
