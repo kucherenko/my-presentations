@@ -38,5 +38,25 @@ Open sourse projects:
 
 | Date        | Type     | Title        |   Location    |  Slides  |
 | ----------- | -------- | ------------ | ------------- | ------ |
+| 08.07.2018 | Presentation | jscpd - copy/paste detector | [VinnytsiaJS](http://vinnytsiajs.org/) Vinnytsia, Ukraine| [slides](https://slides.com/andreykucherenko/jscpd-copy-paste-detector#/) |  
+| 21.07.2018 | Presentation | jscpd - copy/paste detector | [OdessaJS](http://odessajs.org/2018/index.html) Odessa, Ukraine| [slides](https://slides.com/andreykucherenko/jscpd-copy-paste-detector#/) |  
 | 30.03.2018  | Presentation | Mutation Testing in JavaScript| [JSFest](https://jsfest.com.ua/jsfest2018/indexe.html), Kiev, Ukraine | [slides](https://slides.com/andreykucherenko/mutation-testing-in-javascript#/)|
+
+## 2017
+
+| Date        | Type     | Title        |   Location    |  Slides  |
+| ----------- | -------- | ------------ | ------------- | ------ |
+| 08.2017 | Presentation | Multi Packages ​Applications: What? Why? How? | [VinnytsiaJS](http://vinnytsiajs.org/) Vinnytsia, Ukraine| [slides](https://slides.com/andreykucherenko/multi-packages-appications#/) |  
+| 08.2017 | Presentation | Development for large-scale & scalable front-end applications. | SBTech Talks, Sofia, Bulgaria| [slides](https://slides.com/andreykucherenko/deck-48#/)|
+| 2017 | Training | Introducion to GIT | Kiev, Ukraine (EPAM) | [slides] (https://slides.com/andreykucherenko/advanced-git-47#/)|
+| 2017 |
+
+
+## 2016
+
+| Date        | Type     | Title        |   Location    |  Slides  |
+| ----------- | -------- | ------------ | ------------- | ------ |
+| 2016 | Presentation | SmartHouse - практическое применение IoT в уютной JS разработке | [OdessaJS](http://odessajs.org/) Odessa, Ukraine| [slides](https://slides.com/andreykucherenko/s) | 
+| 2016 | Training | JavaScript + AngularJS Course | Kiev, Ukraine| [JavaScript + AngularJS Course (part 1)](https://slides.com/andreykucherenko/javascript-angular) [JavaScript + AngularJS Course (part 2)](https://slides.com/andreykucherenko/deck-31) [JavaScript + AngularJS Course (part 3)](https://slides.com/andreykucherenko/deck-31-32) [JavaScript + AngularJS Course (part 4)](https://slides.com/andreykucherenko/deck-31-32-33) [JavaScript + AngularJS Course (part 5)](https://slides.com/andreykucherenko/deck-31-32-33-34) [JavaScript + AngularJS Course (part 6)](https://slides.com/andreykucherenko/deck-31-32-33-34-35) [JavaScript + AngularJS Course (part 7)](https://slides.com/andreykucherenko/deck-31-32-33-34-35-36) [JavaScript + AngularJS Course (part 8)](https://slides.com/andreykucherenko/deck-31-32-33-34-35-36-37) [JavaScript + AngularJS Course (part 9)](https://slides.com/andreykucherenko/deck-31-32-33-34-35-36-37-39) [JavaScript + AngularJS Course (part 10)](https://slides.com/andreykucherenko/deck-24-38)| 
+
 
