@@ -16,7 +16,7 @@ Open sourse projects:
 
 | Date        | Type     | Title        |   Location    |
 | ----------- | -------- | ------------ | ------------- |
-| 20.09.2019-21.09.2019 | Training | Test Driven Development for Frontend developers | Kharkiv, Ukraine |
+| 20.09.2019-21.09.2019 | Training | Test Driven Development for Frontend developers | Kharkiv, Ukraine (Dev-Pro) |
 | 17.09.2019-18.09.2019 | Training | Test Driven Development | Kiev, Ukraine (EPAM) |
 | 07.12.2019       | Presentation| Разработка фронтенда по TDD| [React Camp](http://2019.reactnative.com.ua/), Kiev, Ukraine |
 
