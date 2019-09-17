@@ -57,7 +57,7 @@ Open sourse projects:
 | ----------- | -------- | ------------ | ------------- | ------ |
 | 2016 | Presentation | SmartHouse - практическое применение IoT в уютной JS разработке | [OdessaJS](http://odessajs.org/) Odessa, Ukraine| [slides](https://slides.com/andreykucherenko/s) | 
 | 2016 | Training | JavaScript + AngularJS Course | Kiev, Ukraine| [JavaScript + AngularJS Course (part 1)](https://slides.com/andreykucherenko/javascript-angular) [JavaScript + AngularJS Course (part 2)](https://slides.com/andreykucherenko/deck-31) [JavaScript + AngularJS Course (part 3)](https://slides.com/andreykucherenko/deck-31-32) [JavaScript + AngularJS Course (part 4)](https://slides.com/andreykucherenko/deck-31-32-33) [JavaScript + AngularJS Course (part 5)](https://slides.com/andreykucherenko/deck-31-32-33-34) [JavaScript + AngularJS Course (part 6)](https://slides.com/andreykucherenko/deck-31-32-33-34-35) [JavaScript + AngularJS Course (part 7)](https://slides.com/andreykucherenko/deck-31-32-33-34-35-36) [JavaScript + AngularJS Course (part 8)](https://slides.com/andreykucherenko/deck-31-32-33-34-35-36-37) [JavaScript + AngularJS Course (part 9)](https://slides.com/andreykucherenko/deck-31-32-33-34-35-36-37-39) [JavaScript + AngularJS Course (part 10)](https://slides.com/andreykucherenko/deck-24-38)| 
-| 23.03.2016 | On-line presentation | | [Online](https://www.facebook.com/events/1023367014391397/) | [slides](https://slides.com/andreykucherenko/deck-24#/)|
+| 23.03.2016 | On-line presentation | Test Driven Development for AngularJS | [Online](https://www.facebook.com/events/1023367014391397/) | [slides](https://slides.com/andreykucherenko/deck-24#/)|
 
 ## 2015
 
