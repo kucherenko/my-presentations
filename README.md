@@ -11,6 +11,9 @@ Open sourse projects:
  - [coverage-blamer](https://github.com/kucherenko/coverage-blamer) - show author of uncovered code
 
 ## Upcomming
+
+-----------
+
 | Date        | Type     | Title        |   Location    |
 | ----------- | -------- | ------------ | ------------- |
 | 20.09.2019-21.09.2019 | Training | Test Driven Development for Frontend developers | Kharkiv, Ukraine |
@@ -18,6 +21,8 @@ Open sourse projects:
 | 07.12.2019       | Presentation| Разработка фронтенда по TDD| [React Camp](http://2019.reactnative.com.ua/), Kiev, Ukraine |
 
 ## 2019
+
+-----------
 
 | Date        | Type     | Title        |   Location    |    |
 | ----------- | -------- | ------------ | ------------- | ------ |
