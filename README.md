@@ -2,7 +2,7 @@
 
 ![Andrey Kucherenko](https://scontent.fiev22-2.fna.fbcdn.net/v/t1.0-9/36912339_1957987034462244_7853359078104367104_o.jpg?_nc_cat=101&_nc_oc=AQnw5YXSZSHyxmSB0WWNJoH9nbDKZEjgf_ROEuMMxfD9zaz9FfNVB32OcLNXTUkbtnE&_nc_ht=scontent.fiev22-2.fna&oh=0c449429aa2ffcc52c0bded6a202b680&oe=5E3C3B8D)
 
-The list of public speaking, trainings, presentations conducted by me.
+List of public speaking, trainings, mentoring programs, presentations conducted by me.
 
 Slides: [andreykucherenko](https://slides.com/andreykucherenko)
 
