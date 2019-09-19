@@ -19,6 +19,12 @@ Open sourse projects:
 I am author and curator of "Lean Startup Mentoring". The Lean Startup Mentoring is technical mentoring program aimed to grow seniority of the engineers and learn new technologies. 
 For get real experience we should implement real ideas. In the program people can try to be a part of the team in different roles and grow up experience.
 
+#### Upcoming runs
+
+| Date        | Idea         |   Location    |       |
+| ----------- | ------------ | ------------- | ----- |
+| 2019-2020   | TBD | Kiev, Ukraine (EPAM) | Technologies: TBD|
+
 #### Runs
 
 | Date        | Idea         |   Location    |       |
@@ -29,9 +35,10 @@ For get real experience we should implement real ideas. In the program people ca
 | 2015        | Travel and help, application for make donations and make helps during travaling| Kiev, Ukraine (EPAM) | Technologies: react native, mongodb, node.js. [github](https://github.com/orgs/travel-and-help/teams/t-h) |
 | 2015        | Smart House, application for make automatisation for smart home | Kiev, Ukraine (EPAM) | Technologies: angular, mongodb, mqtt, node.js. [github](https://github.com/orgs/garage-it/teams/smart-house) [wiki](https://github.com/garage-it/SmartHouse-frontend/wiki) [tasks](https://tree.taiga.io/project/kucherenko-smart-home/) |
 
+
 -----------
 
-## Upcomming
+## Upcomming events
 
 | Date        | Type     | Title        |   Location    |
 | ----------- | -------- | ------------ | ------------- |
