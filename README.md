@@ -9,7 +9,7 @@ Slides: [andreykucherenko](https://slides.com/andreykucherenko)
 Twitter: [a_kucherenko](https://twitter.com/a_kucherenko)
 
 Open sourse projects:
- - [jscpd](https://github.com/kucherenko/jscpd) - copy/paste detector
+ - [jscpd](https://github.com/kucherenko/jscpd) - copy/paste detector [slides](https://slides.com/andreykucherenko/jscpd-copy-paste-detector#/)
  - [awesome-project-questions](https://github.com/kucherenko/awesome-project-questions) - list of questions, what need to ask before start work on project
  - [coverage-blamer](https://github.com/kucherenko/coverage-blamer) - show author of uncovered code
 
