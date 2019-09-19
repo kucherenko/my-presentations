@@ -24,7 +24,7 @@ Open sourse projects:
 
 ## 2019
 
-| Date        | Type     | Title        |   Location    |  Slides  |
+| Date        | Type     | Title        |   Location    |    |
 | ----------- | -------- | ------------ | ------------- | ------ |
 | 17.09.2019-18.09.2019 | Training | Test Driven Development | Kiev, Ukraine (EPAM) | |
 | 25.07.2019  | Meetup | Разработка фронтенда по TDD| [Smart Club](https://www.facebook.com/photo.php?fbid=2117273905230498&set=gm.2122439881217232&type=3&theater&ifg=1), Kharkov, Ukraine | [slides](https://slides.com/andreykucherenko/test-driven-development-72)|
@@ -36,7 +36,7 @@ Open sourse projects:
 
 ## 2018
 
-| Date        | Type     | Title        |   Location    |  Slides  |
+| Date        | Type     | Title        |   Location    |    |
 | ----------- | -------- | ------------ | ------------- | ------ |
 | 08.07.2018 | Presentation | jscpd - copy/paste detector | [VinnytsiaJS](http://vinnytsiajs.org/) Vinnytsia, Ukraine| [slides](https://slides.com/andreykucherenko/jscpd-copy-paste-detector#/) |  
 | 21.07.2018 | Presentation | jscpd - copy/paste detector | [OdessaJS](http://odessajs.org/2018/index.html) Odessa, Ukraine| [slides](https://slides.com/andreykucherenko/jscpd-copy-paste-detector#/) |  
@@ -44,7 +44,7 @@ Open sourse projects:
 
 ## 2017
 
-| Date        | Type     | Title        |   Location    |  Slides  |
+| Date        | Type     | Title        |   Location    |    |
 | ----------- | -------- | ------------ | ------------- | ------ |
 | 08.2017 | Presentation | Multi Packages Applications: What? Why? How? | [VinnytsiaJS](http://vinnytsiajs.org/) Vinnytsia, Ukraine| [slides](https://slides.com/andreykucherenko/multi-packages-appications#/) |  
 | 08.2017 | Presentation | Development for large-scale & scalable front-end applications. | SBTech Talks, Sofia, Bulgaria| [slides](https://slides.com/andreykucherenko/deck-48#/)|
@@ -53,15 +53,17 @@ Open sourse projects:
 
 ## 2016
 
-| Date        | Type     | Title        |   Location    |  Slides  |
+| Date        | Type     | Title        |   Location    |    |
 | ----------- | -------- | ------------ | ------------- | ------ |
 | 2016 | Presentation | SmartHouse - практическое применение IoT в уютной JS разработке | [OdessaJS](http://odessajs.org/) Odessa, Ukraine| [slides](https://slides.com/andreykucherenko/s) | 
 | 2016 | Training | JavaScript + AngularJS Course for Java Developers | Kiev, Ukraine (EPAM)| [(part 1)](https://slides.com/andreykucherenko/javascript-angular) [(part 2)](https://slides.com/andreykucherenko/deck-31) [(part 3)](https://slides.com/andreykucherenko/deck-31-32) [(part 4)](https://slides.com/andreykucherenko/deck-31-32-33) [(part 5)](https://slides.com/andreykucherenko/deck-31-32-33-34) [(part 6)](https://slides.com/andreykucherenko/deck-31-32-33-34-35) [(part 7)](https://slides.com/andreykucherenko/deck-31-32-33-34-35-36) [(part 8)](https://slides.com/andreykucherenko/deck-31-32-33-34-35-36-37) [(part 9)](https://slides.com/andreykucherenko/deck-31-32-33-34-35-36-37-39) [(part 10)](https://slides.com/andreykucherenko/deck-24-38)| 
 | 23.03.2016 | On-line presentation | Test Driven Development for AngularJS | [Online](https://www.facebook.com/events/1023367014391397/) | [slides](https://slides.com/andreykucherenko/deck-24#/)|
+| 2016 | Training | IoT with JavaScript  | Kiev, Ukraine (EPAM)| |
+| 2016 | Training | SmartHouse Architecture  | Kiev, Ukraine (EPAM)| |
 
 ## 2015
 
-| Date        | Type     | Title        |   Location    |  Slides  |
+| Date        | Type     | Title        |   Location    |    |
 | ----------- | -------- | ------------ | ------------- | ------ |
 | 2015 | Presentation | Modern app workflow | [TechTalks](https://techtalks.bg/) Sofia, Bulgaria| [slides](https://slides.com/andreykucherenko/modern-application-flow#/) | 
 | 2015 | Training | Test Driven Development | [SmartMe University](http://smartme.university/workshop/tdd-in-javascript/) Kiev, Ukraine | [slides](https://slides.com/andreykucherenko/deck-9-17) |
@@ -72,9 +74,33 @@ Open sourse projects:
 | 2015 | Presentation | Hardware programming with JavaScript | Kiev, Ukraine (EPAM) | [slides](https://slides.com/andreykucherenko/hardware-programming-with-javascript#/) |
 | 2015 | Presentation | Native development with JavaScript | Kiev, Ukraine (EPAM) | [slides](https://slides.com/andreykucherenko/deck-13#/) |
 | 2015 | Presentation | Mobile Development with JavaScript | Kiev, Ukraine (EPAM) | [slides](https://slides.com/andreykucherenko/mobile-development-with-javascript#/) |
+| 2015 | Training | Software Developer Principles | Kiev, Ukraine (EPAM)| |
+| 2015 | Training | TDD for JavaScript Developers | Kiev, Ukraine (EPAM)| |
+| 2015 | Training | Advanced Git  | Kiev, Ukraine (EPAM)| |
+| 2015 | Training | TDD for PHP  | Kiev, Ukraine (EPAM)| |
 
+## 2014
 
+| Date        | Type     | Title        |   Location    |    |
+| ----------- | -------- | ------------ | ------------- | ------ |
+| 2014 | Training | Continuous Integration for JavaScript Projects  | Kiev, Ukraine (EPAM)| |
+| 2014 | Training | TDD for PHP  | Kiev, Ukraine (EPAM)| |
+| 2014 | Training | TDD for JavaScript Developers | Kiev, Ukraine (EPAM)| |
 
+## 2013
 
+| Date        | Type     | Title        |   Location    |    |
+| ----------- | -------- | ------------ | ------------- | ------ |
+| 2013 | Training | Introduction to Test Driven Development for Java Developers  | Kharkov, Ukraine (EPAM)| |
+| 2013 | Workshop | Pair Programming Workshop | Kiev, Ukraine (EPAM)| | 
+| 2013 | Training | Introduction to CoffeeScript Language |  Kiev, Ukraine (EPAM) | |
+| 2013 | Training | TDD for QAs |  Kiev, Ukraine (EPAM) | |
+| 2013 | Training | Introduction to Test Driven Development |  Dnipropetrovk, Ukraine (EPAM) | |
+| 2013 | Training | TDD for JavaScript developers |  Dnipropetrovk, Ukraine (EPAM) | |
 
+## 2012
+
+| Date        | Type     | Title        |   Location    |    |
+| ----------- | -------- | ------------ | ------------- | ------ |
+| 2013 | Training | Test Driven Development  | Kharkov, Ukraine (EPAM)| |
 
