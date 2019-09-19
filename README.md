@@ -14,6 +14,22 @@ Open sourse projects:
  - [coverage-blamer](https://github.com/kucherenko/coverage-blamer) - show author of uncovered code
 
 -----------
+## Lean Startup Mentoring
+
+I am author and curator of "Lean Startup Mentoring". The Lean Startup Mentoring is technical mentoring program aimed to grow seniority of the engineers and learn new technologies. 
+For get real experience we should implement real ideas. In the program people can try to be a part of the team in different roles and grow up experience.
+
+#### Runs
+
+| Date        | Idea         |   Location    |       |
+| ----------- | ------------ | ------------- | ----- |
+| 2019        | Extreme Startup, application for train programmings skills | Kiev, Ukraine (EPAM) | Technologies: Node.JS, VueJS, Nest.JS, TypeScript, MySQL, Docker [github](https://github.com/orgs/extreme-startup/teams/kids-of-sun)|
+| 2017        | Application for get feedback from customers and developers during development process | Kiev, Ukraine (EPAM) | Technologies: Etherium, ReactNative,node.js |
+| 2016        | Smart House #2, application for make automatisation for smart home | Kiev, Ukraine (EPAM) | Technologies: angular, mongodb, mqtt, node.js. [github](https://github.com/orgs/garage-it/teams/smart-house) [wiki](https://github.com/garage-it/SmartHouse-frontend/wiki) [tasks](https://tree.taiga.io/project/kucherenko-smart-home/ |
+| 2015        | Travel and help, application for make donations and make helps during travaling| Kiev, Ukraine (EPAM) | Technologies: react native, mongodb, node.js. [github](https://github.com/orgs/travel-and-help/teams/t-h) |
+| 2015        | Smart House, application for make automatisation for smart home | Kiev, Ukraine (EPAM) | Technologies: angular, mongodb, mqtt, node.js. [github](https://github.com/orgs/garage-it/teams/smart-house) [wiki](https://github.com/garage-it/SmartHouse-frontend/wiki) [tasks](https://tree.taiga.io/project/kucherenko-smart-home/) |
+
+-----------
 
 ## Upcomming
 
