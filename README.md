@@ -99,6 +99,7 @@ For get real experience we should implement real ideas. In the program people ca
 | 2015 | Presentation | How to Use Agile Practices in a Proper Way | Kiev, Ukraine (EPAM) | [slides](https://slides.com/andreykucherenko/how-to-use-agile-practices-in-a-proper-way#/3) |
 | 2015 | Presentation | Connect physical world to the Internet with JavaScript | [OdessaJS](http://odessajs.org/) Odessa, Ukraine | [slides](https://slides.com/andreykucherenko/deck-11) |
 | 2015 | Presentation | Test Driven Development for Javascript | [OdessaJS](http://odessajs.org/) Odessa, Ukraine | [slides](https://slides.com/andreykucherenko/deck-9-10) |
+| 16.05.2015 | Presentation | Internet of Things for Web Developers | EPAM JS OPEN Vinnitsa, Ukraine | [slides](https://slides.com/andreykucherenko/deck-7#/) |
 | 2015 | Presentation | Internet of Things for Web Developers | [SEC](https://sec.epam.com/) Kiev, Ukraine | [slides](https://slides.com/andreykucherenko/deck-7#/) |
 | 2015 | Presentation | Hardware programming with JavaScript | Kiev, Ukraine (EPAM) | [slides](https://slides.com/andreykucherenko/hardware-programming-with-javascript#/) |
 | 2015 | Presentation | Native development with JavaScript | Kiev, Ukraine (EPAM) | [slides](https://slides.com/andreykucherenko/deck-13#/) |
