@@ -116,7 +116,7 @@ For get real experience we should implement real ideas. In the program people ca
 | ----------- | -------- | ------------ | ------------- | ------ |
 | 2013 | Training | Introduction to Test Driven Development for Java Developers  | Kharkov, Ukraine (EPAM)| |
 | 2013 | Workshop | Pair Programming Workshop | Kiev, Ukraine (EPAM)| | 
-| 2013 | Training | Introduction to CoffeeScript Language |  Kiev, Ukraine (EPAM) | |
+| 2013 | Training | Introduction to CoffeeScript Language |  Kiev, Ukraine (EPAM) | [slides](https://github.com/kucherenko/coffee-slides/) [cheatsheet](https://www.cheatography.com/apk/cheat-sheets/coffeescript-language/)|
 | 2013 | Training | TDD for QAs |  Kiev, Ukraine (EPAM) | |
 | 2013 | Training | Introduction to Test Driven Development |  Dnipropetrovk, Ukraine (EPAM) | |
 | 2013 | Training | TDD for JavaScript developers |  Dnipropetrovk, Ukraine (EPAM) | |
