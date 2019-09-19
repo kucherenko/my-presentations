@@ -56,6 +56,7 @@ For get real experience we should implement real ideas. In the program people ca
 | 25.05.2019 | Presentation | The architecture of Front-End applications | [iForum](https://2019.iforum.ua/speakers/kucherenko/#speech_1847) Kiev, Ukraine | [slides](https://slides.com/andreykucherenko/front-end-architecture-66#/) |
 | 25.04.2019 | Workshop | Coding-Dojo | [Math.random()](http://mathrandom.com/coding-dojo) Kiev, Ukraine | [slides](https://slides.com/andreykucherenko/coding-dojo) |
 | 05.04.2019 | Presentation | The architecture of Front-End applications | [JSFest](https://jsfest.com.ua/jsfest2019spring/) Kiev, Ukraine | [slides](https://slides.com/andreykucherenko/front-end-architecture#/) |
+| 18.02.2019 | Training | NestJS - A Progressive Node.JS Framework | Kiev, Ukraine (EPAM) | [slides](https://slides.com/andreykucherenko/nestjs#/) |
 
 ## 2018
 
