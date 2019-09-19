@@ -30,7 +30,7 @@ For get real experience we should implement real ideas. In the program people ca
 | Date        | Idea         |   Location    |       |
 | ----------- | ------------ | ------------- | ----- |
 | 2019        | Extreme Startup, application for train programmings skills | Kiev, Ukraine (EPAM) | Technologies: Node.JS, VueJS, Nest.JS, TypeScript, MySQL, Docker [github](https://github.com/orgs/extreme-startup/teams/kids-of-sun)|
-| 2017        | Application for get feedback from customers and developers during development process | Kiev, Ukraine (EPAM) | Technologies: Etherium, ReactNative,node.js |
+| 2017        | C-EYE, Application for get feedback from customers and developers during development process | Kiev, Ukraine (EPAM) | Technologies: Etherium, ReactNative,node.js |
 | 2016        | Smart House #2, application for make automatisation for smart home | Kiev, Dnepr, Ukraine (EPAM) | Technologies: angular, mongodb, mqtt, node.js. [github](https://github.com/orgs/garage-it/teams/smart-house) [wiki](https://github.com/garage-it/SmartHouse-frontend/wiki) [tasks](https://tree.taiga.io/project/kucherenko-smart-home/) |
 | 2015        | Travel and help, application for make donations and make helps during travaling| Kiev, Ukraine (EPAM) | Technologies: react native, mongodb, node.js. [github](https://github.com/orgs/travel-and-help/teams/t-h) |
 | 2015        | Smart House, application for make automatisation for smart home | Kiev, Ukraine (EPAM) | Technologies: angular, mongodb, mqtt, node.js. [github](https://github.com/orgs/garage-it/teams/smart-house) [wiki](https://github.com/garage-it/SmartHouse-frontend/wiki) [tasks](https://tree.taiga.io/project/kucherenko-smart-home/) |
@@ -72,6 +72,11 @@ For get real experience we should implement real ideas. In the program people ca
 | 08.2017 | Presentation | Multi Packages Applications: What? Why? How? | [VinnytsiaJS](http://vinnytsiajs.org/) Vinnytsia, Ukraine| [slides](https://slides.com/andreykucherenko/multi-packages-appications#/) |  
 | 08.2017 | Presentation | Development for large-scale & scalable front-end applications. | SBTech Talks, Sofia, Bulgaria| [slides](https://slides.com/andreykucherenko/deck-48#/)|
 | 2017 | Training | Introducion to GIT | Kiev, Ukraine (EPAM) | [slides](https://slides.com/andreykucherenko/advanced-git-47#/)|
+|20.11.2017 | Training | TypeScript Plus Angular Course for non-JS Developers | Kiev, Ukraine (EPAM) | |
+|14.06.2017 | Training | Git Training | Kiev, Ukraine (EPAM) | |
+|23.12.2017 | Workshop | Minimum Valuable Product | Kiev, Ukraine (EPAM) | |
+|06.06.2017 | Training | Test Driven Development for JavaScript Developers | Kiev, Ukraine (EPAM) | |
+
 
 
 ## 2016
