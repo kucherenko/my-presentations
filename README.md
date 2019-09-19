@@ -125,5 +125,5 @@ For get real experience we should implement real ideas. In the program people ca
 
 | Date        | Type     | Title        |   Location    |    |
 | ----------- | -------- | ------------ | ------------- | ------ |
-| 2013 | Training | Test Driven Development  | Kharkov, Ukraine (EPAM)| |
+| 2013 | Training | Test Driven Development  | Kiev, Ukraine (EPAM)| |
 
