@@ -42,8 +42,8 @@ For get real experience we should implement real ideas. In the program people ca
 
 | Date        | Type     | Title        |   Location    |
 | ----------- | -------- | ------------ | ------------- |
-| 18.10.2019-19.10.2019 | Training | Test Driven Development for Frontend developers | Kharkiv, Ukraine (Dev-Pro) |
 | 27.09.2019 | Presentation | Test Driven Development for Frontend | [DevPoint.Frontend.Architect](https://www.facebook.com/events/2945315972207714/) Kiev, Ukraine |
+| 18.10.2019-19.10.2019 | Training | Test Driven Development for Frontend developers | Kharkiv, Ukraine (Dev-Pro) |
 | 07.12.2019       | Presentation| Разработка фронтенда по TDD| [React Camp](http://2019.reactnative.com.ua/), Kiev, Ukraine |
 
 ## 2019
