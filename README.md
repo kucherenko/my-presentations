@@ -38,12 +38,6 @@ For get real experience we should implement real ideas. In the program people ca
 
 -----------
 
-## Upcomming events
-
-| Date        | Type     | Title        |   Location    |
-| ----------- | -------- | ------------ | ------------- |
-| 07.12.2019       | Presentation| Разработка фронтенда по TDD| [React Camp](http://2019.reactnative.com.ua/), Kiev, Ukraine |
-
 ## 2019
 
 | Date        | Type     | Title        |   Location    |    |
