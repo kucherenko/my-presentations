@@ -23,7 +23,7 @@ For get real experience we should implement real ideas. In the program people ca
 
 | Date        | Idea         |   Location    |       |
 | ----------- | ------------ | ------------- | ----- |
-| 2019-2020   | TBD | Kiev, Ukraine (EPAM) | Technologies: TBD|
+| 2020   | TBD | Kiev, Ukraine (EPAM) | Technologies: TBD|
 
 #### Runs
 
