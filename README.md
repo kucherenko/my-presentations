@@ -43,7 +43,7 @@ For get real experience we should implement real ideas. In the program people ca
 
 | Date        | Type     | Title        |   Location    |    |
 | ----------- | -------- | ------------ | ------------- | ------ |
-| 22.04.2020  | Web-conference| Разработка по TDD  | online| [GET PROF IT](https://events.epam.com/events/get-prof-it-js-devops)|
+| 22.04.2020  | Web-conference| Разработка по TDD  |[GET PROF IT](https://events.epam.com/events/get-prof-it-js-devops)| |
 
 ## 2019
 
