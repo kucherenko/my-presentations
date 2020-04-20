@@ -25,6 +25,7 @@ For get real experience we should implement real ideas. In the program people ca
 | ----------- | ------------ | ------------- | ----- |
 | 2020   | TBD | Kiev, Ukraine (EPAM) | Technologies: TBD|
 
+
 #### Runs
 
 | Date        | Idea         |   Location    |       |
@@ -38,10 +39,17 @@ For get real experience we should implement real ideas. In the program people ca
 
 -----------
 
+## 2020
+
+| Date        | Type     | Title        |   Location    |    |
+| ----------- | -------- | ------------ | ------------- | ------ |
+| 22.04.2020  | Web-conference| Разработка по TDD  | online| [GET PROF IT](https://events.epam.com/events/get-prof-it-js-devops)|
+
 ## 2019
 
 | Date        | Type     | Title        |   Location    |    |
 | ----------- | -------- | ------------ | ------------- | ------ |
+
 | 18.10.2019-19.10.2019 | Training | Test Driven Development for Frontend developers | Kharkiv, Ukraine (Dev-Pro) | |
 | 27.09.2019 | Presentation | Test Driven Development for Frontend | [DevPoint.Frontend.Architect](https://www.facebook.com/events/2945315972207714/) Kiev, Ukraine | [slides](https://slides.com/andreykucherenko/test-driven-development-75/) | 
 | 20.09.2019-21.09.2019 | Training | Test Driven Development for Frontend developers | Kharkiv, Ukraine (Dev-Pro) | |
