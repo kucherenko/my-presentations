@@ -14,6 +14,13 @@ Open sourse projects:
  - [coverage-blamer](https://github.com/kucherenko/coverage-blamer) - show author of uncovered code
 
 -----------
+
+## StartupEmulator
+Training platform for getting expiriece in software development.
+
+[https://startupemulator.com](https://startupemulator.com)
+
+
 ## Lean Startup Mentoring
 
 I am author and curator of "Lean Startup Mentoring". The Lean Startup Mentoring is technical mentoring program aimed to grow seniority of the engineers and learn new technologies. 
