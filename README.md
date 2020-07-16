@@ -20,17 +20,12 @@ Training platform for getting expiriece in software development.
 
 [https://startupemulator.com](https://startupemulator.com)
 
+StartupEkjulator is next step after Lean Startup Mentoring.
 
 ## Lean Startup Mentoring
 
 I am author and curator of "Lean Startup Mentoring". The Lean Startup Mentoring is technical mentoring program aimed to grow seniority of the engineers and learn new technologies. 
 For get real experience we should implement real ideas. In the program people can try to be a part of the team in different roles and grow up experience.
-
-#### Upcoming runs
-
-| Date        | Idea         |   Location    |       |
-| ----------- | ------------ | ------------- | ----- |
-| 2020   | TBD | Kiev, Ukraine (EPAM) | Technologies: TBD|
 
 
 #### Runs
