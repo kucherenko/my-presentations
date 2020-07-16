@@ -1,6 +1,6 @@
 # Andrey Kucherenko
 
-![Andrey Kucherenko](https://scontent-waw1-1.xx.fbcdn.net/v/t1.0-9/36912339_1957987034462244_7853359078104367104_o.jpg?_nc_cat=101&_nc_sid=e007fa&_nc_ohc=K6tsjbXbjH8AX_U_uSE&_nc_ht=scontent-waw1-1.xx&oh=bc4a8d2e660721785d4613e17549bd41&oe=5F096DF3)
+![Andrey Kucherenko](https://startupemulator.com/_nuxt/img/790ead2.jpg)
 
 List of public speaking, trainings, mentoring programs, presentations conducted by me.
 
