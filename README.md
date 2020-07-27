@@ -16,11 +16,11 @@ Open sourse projects:
 -----------
 
 ## StartupEmulator
-Training platform for getting expiriece in software development.
+Training platform for developers for getting expiriece in software development.
 
 [https://startupemulator.com](https://startupemulator.com)
 
-StartupEkjulator is next step after Lean Startup Mentoring.
+StartupEmulator is next step after Lean Startup Mentoring.
 
 ## Lean Startup Mentoring
 
