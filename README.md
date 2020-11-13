@@ -45,7 +45,7 @@ For get real experience we should implement real ideas. In the program people ca
 
 | Date        | Type     | Title        |   Location    |    |
 | ----------- | -------- | ------------ | ------------- | ------ |
-| 12.11.2020  | Webinar| Awesome questions about projects  |[Math.random()](http://mathrandom.com/webinar1211)| [slides](https://slides.com/andreykucherenko/awesome-project-questions/) [awesome project questions](https://github.com/kucherenko/awesome-project-questions) |
+| 12.11.2020  | Webinar| Awesome questions about projects  |[Math.random()](http://mathrandom.com/webinar1211)| [video](https://www.youtube.com/watch?v=LUy6WhfaT4Q&t=3130s) [slides](https://slides.com/andreykucherenko/awesome-project-questions/) [awesome project questions](https://github.com/kucherenko/awesome-project-questions) |
 | 22.04.2020  | Web-conference| Разработка по TDD  |[GET PROF IT](https://events.epam.com/events/get-prof-it-js-devops)| |
 
 ## 2019
