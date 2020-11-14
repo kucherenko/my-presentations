@@ -31,6 +31,15 @@ Training platform for developers for getting expiriece in software development.
 
 [https://startupemulator.com](https://startupemulator.com)
 
+
+#### Runs
+
+| Date        | Idea          |       |
+| ----------- | ------------  | ----- |
+| 2020       | Flower wattering appication named FCare | Technologies: Nest.JS, React, TypeScript, Mongodb [git](https://gitlab.com/nkolomiych/flower-pot-watering/) [https://fcare.ml/](https://fcare.ml/) [presentation](https://www.youtube.com/watch?v=WvaqUOWWvNs)|
+| 2020       | Flower wattering appication named Croton | Technologies: Node.JS, React, TypeScript, PostgreSQL [git](https://github.com/dubbha/croton) [https://croton.cf/](https://croton.cf/) [presentation](https://www.youtube.com/watch?v=WvaqUOWWvNs)|
+
+
 StartupEmulator is next step after Lean Startup Mentoring.
 
 ## Lean Startup Mentoring
