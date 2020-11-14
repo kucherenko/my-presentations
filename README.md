@@ -2,6 +2,18 @@
 
 ![Andrey Kucherenko](https://startupemulator.com/_nuxt/img/790ead2.jpg)
 
+## About me
+
+Creator and curator of training platform for developers - [https://startupemulator.com](https://startupemulator.com).
+
+Math.random() community leader - [https://t.me/mathrandomcommunity](https://t.me/mathrandomcommunity). 
+
+An engineer with more than 17 years of experience in IT. For the last 10 years I have been working in EPAM company. The main areas of my professional interest are - javascript based technologies, frontend and backend architecture, mobile development, web development, IoT and hardware development, TDD, CI/CD, DevOps, Databases etc. 
+
+Open source contributor: author and maintainer of popular copy/paste detector named [jscpd](https://github.com/kucherenko/jscpd). 
+
+I was born in a family of engineers, that’s why I respect different engineering areas ranging from mechanics to IT.
+
 List of public speaking, trainings, mentoring programs, presentations conducted by me.
 
 Slides: [andreykucherenko](https://slides.com/andreykucherenko)
