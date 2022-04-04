@@ -21,6 +21,7 @@ Twitter: [a_kucherenko](https://twitter.com/a_kucherenko)
 
 Open sourse projects:
  - [jscpd](https://github.com/kucherenko/jscpd) - copy/paste detector [slides](https://slides.com/andreykucherenko/jscpd-copy-paste-detector#/)
+ - [strapi-plugin-passwordless](https://github.com/kucherenko/strapi-plugin-passwordless) - A plugin for Strapi Headless CMS that provides ability to sign-in/sign-up to an application by link had sent to email.
  - [awesome-project-questions](https://github.com/kucherenko/awesome-project-questions) - list of questions, what need to ask before start work on project
  - [coverage-blamer](https://github.com/kucherenko/coverage-blamer) - show author of uncovered code
 
@@ -36,6 +37,7 @@ Training platform for developers for getting expiriece in software development.
 
 | Date        | Idea          |       |
 | ----------- | ------------  | ----- |
+| 2021        | Presentation engine like slides | Technologies: canvas, React, TypeScript |
 | 2020       | Flower wattering appication named FCare | Technologies: Nest.JS, React, TypeScript, Mongodb [git](https://gitlab.com/nkolomiych/flower-pot-watering/) [https://fcare.ml/](https://fcare.ml/) [presentation](https://www.youtube.com/watch?v=WvaqUOWWvNs)|
 | 2020       | Flower wattering appication named Croton | Technologies: Node.JS, React, TypeScript, PostgreSQL [git](https://github.com/dubbha/croton) [https://croton.cf/](https://croton.cf/) [presentation](https://www.youtube.com/watch?v=WvaqUOWWvNs)|
 
