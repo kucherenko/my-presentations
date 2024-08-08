@@ -5,8 +5,6 @@
 
 ## About me
 
-Creator and curator of training platform for developers - [https://startupemulator.com](https://startupemulator.com).
-
 Math.random() community leader - [https://t.me/mathrandomcommunity](https://t.me/mathrandomcommunity). 
 
 An engineer with more than 17 years of experience in IT. For the last 10 years I have been working in EPAM company. The main areas of my professional interest are - javascript based technologies, frontend and backend architecture, mobile development, web development, IoT and hardware development, TDD, CI/CD, DevOps, Databases etc. 
